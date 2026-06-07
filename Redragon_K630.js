@@ -5,7 +5,7 @@ export function Publisher() { return "Mostakim"; }
 export function Size() { return [14, 5]; }
 export function DeviceType() { return "keyboard"; }
 export function Validate(endpoint) { return endpoint.interface === 1 && endpoint.usage === 0x0092; }
-export function ImageUrl() { return "https://assets.signalrgb.com/devices/brands/redragon/keyboards/k557.png"; }
+export function ImageUrl() { return "https://github.com/Mostakim52/redragon-k630-signalrgb-plugin/raw/main/K630_image.png"; }
 
 /* global
 lightingMode:readonly
