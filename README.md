@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="SignalRGB_logo.png" alt="SignalRGB Logo" height="420" />
+  <img src="SignalRGB_logo.png" alt="SignalRGB Logo" height="320" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="K630_image.png" alt="Redragon K630" height="420" />
+  <img src="K630_image.png" alt="Redragon K630" height="320" />
 </div>
 
 <br>
